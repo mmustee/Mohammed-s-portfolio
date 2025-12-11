@@ -1,2 +1,2 @@
-# Customer-Churn-Analysis
-A detailed report dissecting Customer Churn in Databel - A fictional telecommunications company. The source of the analyzed dataset is Datacamp.
+# Data Analytics Portfolio
+A portfolio consisting of my data analytics projects using data analytic tools such as SQL, Power BI and Excel

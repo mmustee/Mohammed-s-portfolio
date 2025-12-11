@@ -12,4 +12,4 @@ A portfolio consisting of my data analytics projects using data analytic tools s
 - Tools used : Power Query, DAX, Power BI
 
 
-## Dashboard Overview ![](images/Screenshot (737).png)
+## Dashboard Overview ![](images/Dashboard.png)

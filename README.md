@@ -2,7 +2,7 @@
 A portfolio consisting of my data analytics projects using data analytic tools such as SQL, Power Query, DAX, Power BI and Excel. To view the projects in more detail, click on the Project title 🙂
 
 # [Project 1: Customer Churn Analysis](https://github.com/mmustee/Customer-Churn-Analysis.git)
-### This is a project I did in preparation for the PL300 Mocrosoft Data Analyst Exam. In this project, I created a databoard report for a fictional telecommunications company called Databel.
+### This is a project I did in preparation for the PL300 Microsoft Data Analyst Exam. In this project, I created a databoard report for a fictional telecommunications company called Databel.
 
 - Dataset obtained from Datacamp
 - Data cleaned, transformed and explored using Power Query before Analysis
